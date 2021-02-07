@@ -5,5 +5,7 @@ public class hello {
             System.out.println("Correct");
         else
             System.out.println("Wrong repeat your schooling ;) ");
+
+        System.out.println("We are here");
     }
 }
